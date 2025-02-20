@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Shorts",
+        "quantity": 58,
+        "price": 79.93,
+        "totalValue": 4635.94
+    },
+    {
+        "name": "Rope",
+        "quantity": 426,
+        "price": 85.08,
+        "totalValue": 36244.08
+    },
+    {
+        "name": "Glove",
+        "quantity": 525,
+        "price": 140.59,
+        "totalValue": 73809.75
+    },
+    {
+        "name": "Helmet",
+        "quantity": 576,
+        "price": 121.86,
+        "totalValue": 70191.36
+    },
+    {
+        "name": "Rope1",
+        "quantity": 281,
+        "price": 114.75,
+        "totalValue": 32244.75
+    },
+    {
+        "name": "Jersey",
+        "quantity": 825,
+        "price": 54.32,
+        "totalValue": 44814.0
+    },
+    {
+        "name": "Bat",
+        "quantity": 660,
+        "price": 55.42,
+        "totalValue": 36577.2
+    },
+    {
+        "name": "Weights",
+        "quantity": 82,
+        "price": 52.66,
+        "totalValue": 4318.12
+    },
+    {
+        "name": "Net",
+        "quantity": 849,
+        "price": 31.68,
+        "totalValue": 26896.32
+    },
+    {
+        "name": "Bag",
+        "quantity": 29,
+        "price": 82.82,
+        "totalValue": 2401.78
+    },
+    {
+        "name": "Jersey1",
+        "quantity": 748,
+        "price": 95.48,
+        "totalValue": 71419.04
+    },
+    {
+        "name": "Goggles",
+        "quantity": 354,
+        "price": 94.24,
+        "totalValue": 33360.96
+    },
+    {
+        "name": "Bottle",
+        "quantity": 616,
+        "price": 45.15,
+        "totalValue": 27812.4
+    },
+    {
+        "name": "Net1",
+        "quantity": 625,
+        "price": 109.64,
+        "totalValue": 68525.0
+    },
+    {
+        "name": "Cap",
+        "quantity": 424,
+        "price": 126.29,
+        "totalValue": 53546.96
+    },
+    {
+        "name": "Bat1",
+        "quantity": 82,
+        "price": 74.37,
+        "totalValue": 6098.34
+    },
+    {
+        "name": "Jersey2",
+        "quantity": 306,
+        "price": 93.36,
+        "totalValue": 28568.16
+    },
+    {
+        "name": "Ball",
+        "quantity": 663,
+        "price": 14.92,
+        "totalValue": 9891.96
+    },
+    {
+        "name": "Bottle1",
+        "quantity": 218,
+        "price": 80.8,
+        "totalValue": 17614.4
+    },
+    {
+        "name": "Net2",
+        "quantity": 963,
+        "price": 141.36,
+        "totalValue": 136129.68
+    },
+    {
+        "name": "Shoes",
+        "quantity": 672,
+        "price": 50.06,
+        "totalValue": 33640.32
+    },
+    {
+        "name": "Cap1",
+        "quantity": 936,
+        "price": 95.62,
+        "totalValue": 89500.32
+    },
+    {
+        "name": "Weights1",
+        "quantity": 88,
+        "price": 146.0,
+        "totalValue": 12848.0
+    },
+    {
+        "name": "Shorts1",
+        "quantity": 354,
+        "price": 68.76,
+        "totalValue": 24341.04
+    },
+    {
+        "name": "Cap2",
+        "quantity": 433,
+        "price": 133.83,
+        "totalValue": 57948.39
+    },
+    {
+        "name": "Net3",
+        "quantity": 856,
+        "price": 124.41,
+        "totalValue": 106494.96
+    },
+    {
+        "name": "Mat",
+        "quantity": 616,
+        "price": 151.68,
+        "totalValue": 93434.88
+    },
+    {
+        "name": "Timer",
+        "quantity": 482,
+        "price": 119.86,
+        "totalValue": 57772.52
+    },
+    {
+        "name": "Bottle2",
+        "quantity": 19,
+        "price": 25.35,
+        "totalValue": 481.65
+    },
+    {
+        "name": "Racket",
+        "quantity": 350,
+        "price": 107.05,
+        "totalValue": 37467.5
+    },
+    {
+        "name": "Bag1",
+        "quantity": 671,
+        "price": 157.17,
+        "totalValue": 105461.07
+    },
+    {
+        "name": "Shoes1",
+        "quantity": 161,
+        "price": 61.02,
+        "totalValue": 9824.22
+    },
+    {
+        "name": "Pads",
+        "quantity": 487,
+        "price": 167.7,
+        "totalValue": 81669.9
+    },
+    {
+        "name": "Helmet1",
+        "quantity": 936,
+        "price": 137.29,
+        "totalValue": 128503.44
+    },
+    {
+        "name": "Weights2",
+        "quantity": 542,
+        "price": 182.34,
+        "totalValue": 98828.28
+    },
+    {
+        "name": "Rope2",
+        "quantity": 161,
+        "price": 93.31,
+        "totalValue": 15022.91
+    },
+    {
+        "name": "Rope3",
+        "quantity": 59,
+        "price": 104.78,
+        "totalValue": 6182.02
+    },
+    {
+        "name": "Bottle3",
+        "quantity": 183,
+        "price": 119.53,
+        "totalValue": 21873.99
+    },
+    {
+        "name": "Rope4",
+        "quantity": 443,
+        "price": 75.56,
+        "totalValue": 33473.08
+    },
+    {
+        "name": "Band",
+        "quantity": 859,
+        "price": 124.57,
+        "totalValue": 107005.63
+    },
+    {
+        "name": "Bat2",
+        "quantity": 21,
+        "price": 63.88,
+        "totalValue": 1341.48
+    },
+    {
+        "name": "Shorts2",
+        "quantity": 106,
+        "price": 186.09,
+        "totalValue": 19725.54
+    },
+    {
+        "name": "Mat1",
+        "quantity": 28,
+        "price": 22.64,
+        "totalValue": 633.92
+    },
+    {
+        "name": "Pads1",
+        "quantity": 33,
+        "price": 155.15,
+        "totalValue": 5119.95
+    },
+    {
+        "name": "Cap3",
+        "quantity": 299,
+        "price": 103.06,
+        "totalValue": 30814.94
+    },
+    {
+        "name": "Ball1",
+        "quantity": 450,
+        "price": 82.51,
+        "totalValue": 37129.5
+    },
+    {
+        "name": "Pads2",
+        "quantity": 576,
+        "price": 53.01,
+        "totalValue": 30533.76
+    },
+    {
+        "name": "Cap4",
+        "quantity": 216,
+        "price": 58.39,
+        "totalValue": 12612.24
+    },
+    {
+        "name": "Helmet2",
+        "quantity": 31,
+        "price": 26.28,
+        "totalValue": 814.68
+    },
+    {
+        "name": "Goggles1",
+        "quantity": 372,
+        "price": 27.13,
+        "totalValue": 10092.36
+    },
+    {
+        "name": "Timer1",
+        "quantity": 523,
+        "price": 199.5,
+        "totalValue": 104338.5
+    },
+    {
+        "name": "Shoes2",
+        "quantity": 989,
+        "price": 95.61,
+        "totalValue": 94558.29
+    },
+    {
+        "name": "Pads3",
+        "quantity": 161,
+        "price": 48.59,
+        "totalValue": 7822.99
+    },
+    {
+        "name": "Bat3",
+        "quantity": 686,
+        "price": 198.74,
+        "totalValue": 136335.64
+    },
+    {
+        "name": "Glove1",
+        "quantity": 686,
+        "price": 17.4,
+        "totalValue": 11936.4
+    },
+    {
+        "name": "Socks",
+        "quantity": 261,
+        "price": 131.97,
+        "totalValue": 34444.17
+    },
+    {
+        "name": "Glove2",
+        "quantity": 715,
+        "price": 135.05,
+        "totalValue": 96560.75
+    },
+    {
+        "name": "Bag2",
+        "quantity": 411,
+        "price": 122.27,
+        "totalValue": 50252.97
+    },
+    {
+        "name": "Goggles2",
+        "quantity": 993,
+        "price": 30.59,
+        "totalValue": 30375.87
+    },
+    {
+        "name": "Timer2",
+        "quantity": 762,
+        "price": 34.33,
+        "totalValue": 26159.46
+    },
+    {
+        "name": "Racket1",
+        "quantity": 186,
+        "price": 191.91,
+        "totalValue": 35695.26
+    },
+    {
+        "name": "Helmet3",
+        "quantity": 129,
+        "price": 71.94,
+        "totalValue": 9280.26
+    },
+    {
+        "name": "Cap5",
+        "quantity": 80,
+        "price": 49.93,
+        "totalValue": 3994.4
+    },
+    {
+        "name": "Pads4",
+        "quantity": 788,
+        "price": 33.36,
+        "totalValue": 26287.68
+    },
+    {
+        "name": "Weights3",
+        "quantity": 202,
+        "price": 149.69,
+        "totalValue": 30237.38
+    },
+    {
+        "name": "Socks1",
+        "quantity": 785,
+        "price": 40.59,
+        "totalValue": 31863.15
+    },
+    {
+        "name": "Socks2",
+        "quantity": 669,
+        "price": 34.15,
+        "totalValue": 22846.35
+    },
+    {
+        "name": "Socks3",
+        "quantity": 431,
+        "price": 90.16,
+        "totalValue": 38858.96
+    },
+    {
+        "name": "Helmet4",
+        "quantity": 407,
+        "price": 63.56,
+        "totalValue": 25868.92
+    },
+    {
+        "name": "Mat2",
+        "quantity": 352,
+        "price": 25.81,
+        "totalValue": 9085.12
+    },
+    {
+        "name": "Jersey3",
+        "quantity": 472,
+        "price": 53.51,
+        "totalValue": 25256.72
+    },
+    {
+        "name": "Rope5",
+        "quantity": 914,
+        "price": 72.27,
+        "totalValue": 66054.78
+    },
+    {
+        "name": "Net4",
+        "quantity": 501,
+        "price": 138.47,
+        "totalValue": 69373.47
+    },
+    {
+        "name": "Weights4",
+        "quantity": 878,
+        "price": 90.88,
+        "totalValue": 79792.64
+    },
+    {
+        "name": "Goggles3",
+        "quantity": 249,
+        "price": 84.62,
+        "totalValue": 21070.38
+    },
+    {
+        "name": "Net5",
+        "quantity": 30,
+        "price": 185.79,
+        "totalValue": 5573.7
+    },
+    {
+        "name": "Ball2",
+        "quantity": 200,
+        "price": 53.63,
+        "totalValue": 10726.0
+    },
+    {
+        "name": "Bag3",
+        "quantity": 609,
+        "price": 179.89,
+        "totalValue": 109553.01
+    },
+    {
+        "name": "Ball3",
+        "quantity": 389,
+        "price": 192.88,
+        "totalValue": 75030.32
+    },
+    {
+        "name": "Ball4",
+        "quantity": 462,
+        "price": 110.38,
+        "totalValue": 50995.56
+    },
+    {
+        "name": "Mat3",
+        "quantity": 645,
+        "price": 133.93,
+        "totalValue": 86384.85
+    },
+    {
+        "name": "Goggles4",
+        "quantity": 306,
+        "price": 79.62,
+        "totalValue": 24363.72
+    },
+    {
+        "name": "Jersey4",
+        "quantity": 965,
+        "price": 164.13,
+        "totalValue": 158385.45
+    },
+    {
+        "name": "Helmet5",
+        "quantity": 775,
+        "price": 121.01,
+        "totalValue": 93782.75
+    },
+    {
+        "name": "Rope6",
+        "quantity": 229,
+        "price": 47.68,
+        "totalValue": 10918.72
+    },
+    {
+        "name": "Rope7",
+        "quantity": 257,
+        "price": 64.65,
+        "totalValue": 16615.05
+    },
+    {
+        "name": "Weights5",
+        "quantity": 556,
+        "price": 106.73,
+        "totalValue": 59341.88
+    },
+    {
+        "name": "Glove3",
+        "quantity": 488,
+        "price": 164.62,
+        "totalValue": 80334.56
+    },
+    {
+        "name": "Timer3",
+        "quantity": 295,
+        "price": 148.12,
+        "totalValue": 43695.4
+    },
+    {
+        "name": "Goggles5",
+        "quantity": 64,
+        "price": 168.76,
+        "totalValue": 10800.64
+    },
+    {
+        "name": "Mat4",
+        "quantity": 113,
+        "price": 40.33,
+        "totalValue": 4557.29
+    },
+    {
+        "name": "Socks4",
+        "quantity": 874,
+        "price": 93.51,
+        "totalValue": 81727.74
+    },
+    {
+        "name": "Socks5",
+        "quantity": 432,
+        "price": 16.56,
+        "totalValue": 7153.92
+    },
+    {
+        "name": "Ball5",
+        "quantity": 879,
+        "price": 154.15,
+        "totalValue": 135497.85
+    },
+    {
+        "name": "Ball6",
+        "quantity": 355,
+        "price": 119.05,
+        "totalValue": 42262.75
+    },
+    {
+        "name": "Socks6",
+        "quantity": 304,
+        "price": 69.51,
+        "totalValue": 21131.04
+    },
+    {
+        "name": "Shorts3",
+        "quantity": 982,
+        "price": 75.97,
+        "totalValue": 74602.54
+    },
+    {
+        "name": "Cap6",
+        "quantity": 512,
+        "price": 130.57,
+        "totalValue": 66851.84
+    },
+    {
+        "name": "Helmet6",
+        "quantity": 136,
+        "price": 119.21,
+        "totalValue": 16212.56
+    },
+    {
+        "name": "Bat4",
+        "quantity": 926,
+        "price": 27.85,
+        "totalValue": 25789.1
+    }
+]
